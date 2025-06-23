@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Fira Sans", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header{
+    border-bottom: 1px solid #030308;
+    font-size: 1.125rem;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+h1, h2{
+    font-family: "Lora", sarif;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 3.5rem;
+    margin-bottom: 1rem ;
+}
+
+h2{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.feature, .catalog, .cta{
+    font-size: 1.125rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.cta-button{
+    background-color: #030308;
+    border-radius: 999px;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    display: block;
+    margin: 2rem auto;
+    width: fit-content;
+    text-transform: uppercase;
+}
+
+.botoes > li{
+    display: inline-block;
+    margin-top: 2rem;
+}
+
+.genre > a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #43abf6;
+    padding: 1rem 1.5rem;
+    border-radius: 999px;
+}
+
+.see-more > a{
+    background-color: #030308;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 2rem;
+}
+
+footer{
+    background-color: #030308;
+    color: #fff;
+    font-family: "Lora", serif;
+    margin-top: 1rem;
+    padding: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://revistasagarana.com.br/wp-content/uploads/2011/10/revistasagarana-fernandodenoronha-fotosjeanyvesdonnardnoronha-2009-a-591-950x634.jpg");
+    background-size: cover;
+}
+
+.container_header{
+    background-color: #248030;
+    border-radius: 5px;
+    color: #eaeaea;
+}
+
+.container_principal{
+    background-color: #ffff8c;
+    border-radius: 5px;
+}
+
+.a_viagem{
+    color: #248030;
+}
+
+.p_footer{
+    background-color: #eaeaea;
+    border-radius: 5px;
+}
+
+.botao_enviar{
+    background-color: #248030;
+    border-radius: 5px;
+}
